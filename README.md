@@ -1,4 +1,6 @@
-# React + Vite
+# Projeto React - Github
+
+- Digitar nome de usuario do github para a buscar o perfil e exibir os repositórios.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
